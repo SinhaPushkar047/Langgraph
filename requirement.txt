@@ -8,3 +8,5 @@ langchain-nvidia-ai-endpoints
 python-dotenv
 pydantic
 dotenv
+google-auth==2.49.0
+requests==2.32.4
