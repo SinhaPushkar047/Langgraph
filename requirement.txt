@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-groq
+langchain-nvidia-ai-endpoints
+python-dotenv
+pydantic
+dotenv
